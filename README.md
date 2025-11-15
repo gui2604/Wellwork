@@ -241,16 +241,6 @@ curl -X POST http://localhost:8080/measurements
 
 ---
 
-## 📎 Próximos Passos (Sugestões)
-
-- Adicionar Swagger/OpenAPI  
-- Criar front-end React/Next.js  
-- Implementar WebSockets para alertas em tempo real  
-- Gerar relatórios PDF  
-- Suporte a múltiplos dispositivos/salas  
-
----
-
 ## 🏛 Tecnologias Utilizadas
 
 - Java 21  
@@ -263,29 +253,5 @@ curl -X POST http://localhost:8080/measurements
 
 ---
 
-## 📌 Status Atual do Projeto
-
-✔ Estrutura completa  
-✔ CRUD de medições  
-✔ Cálculo do índice de conforto  
-✔ Geração automática de alertas  
-✔ DTOs organizados  
-✔ VO (Value Objects) para cálculos ambientais  
-✔ JWT funcional com filtros  
-✔ H2 funcionando  
-✔ Controllers e Services completos  
-✔ Documentação finalizada  
-
----
-
-## 📎 Próximos Passos (Sugestões)
-
-- Adicionar Swagger/OpenAPI  
-- Criar front-end React/Next.js  
-- Implementar WebSockets para alertas em tempo real  
-- Gerar relatórios PDF  
-- Suporte a múltiplos dispositivos/salas  
-
----
 
 
