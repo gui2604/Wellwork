@@ -1,3 +1,10 @@
+# Spring Boot Project – WellWork - Global Solution - Service Oriented Architecture (SOA) - 6º Semestre
+## 🚀 3ESPV - Engenharia de Software 3º Ano
+### 🧑‍💻 Guilherme Barreto Santos - RM97674
+### 🧑‍💻 Mateus Iago Sousa Concição - RM550270
+### 🧑‍💻 Nicolas Oliveira da Silva - RM98939
+
+
 # WellWork – Estação Inteligente de Conforto no Trabalho
 
 A **WellWork** é uma solução completa composta por um **dispositivo físico (Arduino)** e uma **API em Java Spring Boot**, projetada para monitorar e melhorar o conforto ambiental no ambiente de trabalho.  
