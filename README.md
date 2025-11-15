@@ -251,13 +251,6 @@ curl -X POST http://localhost:8080/measurements
 
 ---
 
-## 🧑‍💻 Autoria
-
-Projeto desenvolvido como formação educacional, com apoio do ChatGPT (“Astolfo”), utilizando boas práticas de engenharia de software, arquitetura limpa e padrões modernos.
-
-
----
-
 ## 🏛 Tecnologias Utilizadas
 
 - Java 21  
