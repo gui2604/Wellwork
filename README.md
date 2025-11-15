@@ -95,6 +95,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## 🗂 Estrutura do Projeto
 br/com/fiap/wellwork
+```bash
 ├── controller
 │ ├── AuthController
 │ ├── MeasurementController
@@ -115,7 +116,7 @@ br/com/fiap/wellwork
 │ └── SecurityConfig
 ├── dto/
 └── WellworkApplication.java
-
+```
 
 ---
 
